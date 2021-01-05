@@ -1,4 +1,4 @@
 lxml==4.6.2
-py-wallpaper==0.0.1
+py-wallpaper==1.0.0
 beautifulsoup4==4.9.3
 requests==2.25.1
